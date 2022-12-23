@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marim Mohamed</h1>
-<h3 align="center">A mobile application developer with flutter from Egypt</h3>
+<h1 align="center">Hi 👋, um Marim Mohamed</h1>
+<h3 align="center">A mobile application developer with flutter -from Egypt- </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryam-memo&label=Profile%20views&color=0e75b6&style=flat" alt="maryam-memo" /> </p>
 
