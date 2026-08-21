@@ -27,8 +27,14 @@
 - Clean Architecture
 - Repository Pattern
 - Unit of Work
+- layered architecture
+- ASP.NET Core MVC patterns
+- EF Core configuration and relational modeling
+- service-based design
+- view and controller patterns
+- validation and business rules
 - RESTful APIs
-- Authentication & Authorization (JWT)
+- Identity, Authentication & Authorization (JWT)
 
 **Database**
 - PostgreSQL
